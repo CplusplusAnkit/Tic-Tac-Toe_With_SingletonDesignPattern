@@ -16,7 +16,7 @@ namespace MyApp
             SetupPlayers();
 
             // Start the game
-            StartGame();
+            StartGame(); 
 
             Console.ReadLine(); // Wait for user to exit
         }
