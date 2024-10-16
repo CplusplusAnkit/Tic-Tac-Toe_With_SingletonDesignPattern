@@ -1,0 +1,14 @@
+/Users/ankit/Desktop/C# Code/TicTacToe/bin/Debug/net8.0/TicTacToe
+/Users/ankit/Desktop/C# Code/TicTacToe/bin/Debug/net8.0/TicTacToe.deps.json
+/Users/ankit/Desktop/C# Code/TicTacToe/bin/Debug/net8.0/TicTacToe.runtimeconfig.json
+/Users/ankit/Desktop/C# Code/TicTacToe/bin/Debug/net8.0/TicTacToe.dll
+/Users/ankit/Desktop/C# Code/TicTacToe/bin/Debug/net8.0/TicTacToe.pdb
+/Users/ankit/Desktop/C# Code/TicTacToe/obj/Debug/net8.0/TicTacToe.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ankit/Desktop/C# Code/TicTacToe/obj/Debug/net8.0/TicTacToe.AssemblyInfoInputs.cache
+/Users/ankit/Desktop/C# Code/TicTacToe/obj/Debug/net8.0/TicTacToe.AssemblyInfo.cs
+/Users/ankit/Desktop/C# Code/TicTacToe/obj/Debug/net8.0/TicTacToe.csproj.CoreCompileInputs.cache
+/Users/ankit/Desktop/C# Code/TicTacToe/obj/Debug/net8.0/TicTacToe.dll
+/Users/ankit/Desktop/C# Code/TicTacToe/obj/Debug/net8.0/refint/TicTacToe.dll
+/Users/ankit/Desktop/C# Code/TicTacToe/obj/Debug/net8.0/TicTacToe.pdb
+/Users/ankit/Desktop/C# Code/TicTacToe/obj/Debug/net8.0/TicTacToe.genruntimeconfig.cache
+/Users/ankit/Desktop/C# Code/TicTacToe/obj/Debug/net8.0/ref/TicTacToe.dll
